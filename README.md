@@ -54,7 +54,7 @@ The following technology is being used
 
 Github pages link:
 
-   * <https://terry212.github.io/Coursework-CetouteT/>
+   * <https://terry212.github.io/HW-WK3/>
 
 Go to the link above
 Navigate to Week 3 HW link and click on it
