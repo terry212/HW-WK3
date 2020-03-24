@@ -42,6 +42,12 @@ Using Javascript, CSS, and HTML, the following deliverables were met:
 
 * Alerts and break code to prevent entries that are deemed invalid
 
+## Methodology
+
+For the task given, it started with the idea of allowing the user to respond to a prompt of a list of character types. This quickly became convoluted and needed to much statements and conditions to take care of endless possible solutions. I simplified it by asking a simple yes or no. Once this was completed, then I created some "exit" code to allow for the user to start over.
+
+Then I generated the password with the information received. I used the function "console.log" quite often to test and to debug the code. I learn how to debug code and work through issues. I overcame several issues,such as the concatenation of the generated password if the process was completed several times.
+
 ### Technology
 
 The following technology is being used
